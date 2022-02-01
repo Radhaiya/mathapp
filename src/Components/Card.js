@@ -13,7 +13,7 @@ export default function Card(props) {
   }
 
   const newlink=props.url
-  console.log(newlink);
+ 
 
 
   return <div className="col gy-5 gx-5" >

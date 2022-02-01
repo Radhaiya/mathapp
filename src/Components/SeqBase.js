@@ -36,7 +36,7 @@ const handleans=(event)=>[
 
  return    <>
 
-
+<div className='container-md'>
 
 <div className="row">
     <div className="col">
@@ -66,6 +66,6 @@ const handleans=(event)=>[
     </div>
     <button type="button" className="btn btn-primary" onClick={calculation}>Calculate</button>
   
-
+</div>
   </>
 }
